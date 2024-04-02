@@ -1,0 +1,22 @@
+
+    "1.What are the two values of the Boolean data type? How do you write them?"
+ 
+    "ans. There is only two type boolean values True and False."
+  
+       "False"
+   
+    "3==6"
+  
+       "True"
+   
+    "2==2"
+
+    "2. What are the three different types of Boolean operators?"
+ 
+    "ans:the three basic boolean operators are  AND, OR  and NOT.\n",
+    "AND= both condition is true then result are true.\n",
+    "OR= Atleast one can be true.\n",
+    "NOT=they reverse the senerio."
+
+    "3. Make a list of each Boolean operator's truth tables (i.e. every possible combination of Boolean values for the operator and what it evaluate )."
+

@@ -1,0 +1,56 @@
+
+    "1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators."
+  
+    "ans1_ (*=Expression),('hello'=values),(-87.8=values),(-=expression),(/=expression),(+=expression),(6=values).
+    "2. What is the difference between string and variable?"
+
+    "ans2=string represents a group of characters.strings are important beacause most of the data that we use in daily life will be in the form of strings.,
+    "for examples names of persons, names of palces,address etc.\n",
+    "variables is a container which store the values that assign on them by the users. for example:var='pradeep' and var is variable.
+    "variables like a store box which can store some values.
+    "3. Describe three different data types."
+ 
+    "ans3 Three types of data type in python are:\n",
+    "Numeric types respresent numbers. there are 3 sub types:=\t(int=123), (float=888.888), (complex=-1-5.5)\n",
+    "  A String  is represented by group of characters. strings are enclosed in single quotes or double quotes.\n",
+    "The bool data type in python represent boolean values. there are only two type boolean values true and false."
+ 
+    "4. What is an expression made up of? What do all expressions do?"
+  
+    "ans4=expression can perform various tasks depending on their content with in the code:
+    "5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?"
+ 
+    "ans5. so,in the assisgment equation like spam=10,spam is equal to variable name,= is the assigment operator and 10 is an expression that produces the \n",
+    "values and whole line is statement."
+ 
+    "6. After running the following code, what does the variable bacon contain?\n",
+    "bacon = 22
+    "bacon + 1
+ 
+    "ans=(bacon=22)"
+
+    "7. What should the values of the following two terms be?\n",
+    "'spam' + 'spamspam'
+    "'spam' * 3
+    "ans7'spam'+'spamspam'='spamspamspam'\n",
+    "'spam'*3='spamspamspam'"
+ 
+    "8. Why is eggs a valid variable name while 100 is invalid?"
+ 
+    "so egg is valid variable beacause its start with a letter.however'100' invalid value because its start with number,according to rules variablr can not 
+    "started with numbers."
+ 
+    "9. What three functions can be used to get the integer, floating-point number, or string version of a value?"
+
+    "value=20
+    "interger_version=int(20)
+    "floating_version point version=float(20),
+    "string_version=str(20),
+    "there is 3 function to get integer,float,string."
+
+    "10. Why does this expression cause an error? How can you fix it?\n",
+    "'I have eaten ' + 99 + ' burritos.
+    "var=('I have eaten'+str(99)+'burritos':),
+    "print(var)
+    "I have eaten 99 burritos."
+  
